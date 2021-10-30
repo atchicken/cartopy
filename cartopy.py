@@ -10,7 +10,7 @@ ax = plt.axes(projection=ccrs.PlateCarree())
 # ラベル表示
 ax.gridlines(draw_labels=True)
 
-#描画位置（Lon, Lat）指定
+# 描画範囲（Lon, Lat）指定
 ax.set_extent((120.0, 160.0, 30.0, 50.0), ccrs.PlateCarree())
 
 # 海洋と陸地の色を指定
