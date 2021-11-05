@@ -1,7 +1,7 @@
 # cartopy
 Create a Map(Japan, World, etc.) Using Cartopy
 
-## Instration
+## Install
 The currently recommended method of installation is via pip:
 
 ```bash:bash
@@ -14,13 +14,9 @@ pip install matplotlib
 
 
 ## Details(Japanese)
-・Blog
+・[Blog](https://atchicken.com/japan-map/)
 
-https://atchicken.com/japan-map/
-
-・Qiita
-
-https://qiita.com/atchicken/items/ea8267f014d136284712
+・[Qiita](https://qiita.com/atchicken/items/ea8267f014d136284712)
 
 
 
