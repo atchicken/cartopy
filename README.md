@@ -13,16 +13,15 @@ pip install matplotlib
 ```
 
 
-## Details(Japanese)
+## Detailed Explanation(Japanese)
 ・[Blog](https://atchicken.com/japan-map/)
 
-・[Qiita](https://qiita.com/atchicken/items/ea8267f014d136284712)
 
 
-
-## Results
+## How to Use
 ```bash:bash
 python createMap.py
 ```
 
+## Execution Results
 ![cartopy.png](https://user-images.githubusercontent.com/93382642/139532922-de52676b-896e-4726-ad43-5dbdfb79c721.png)
